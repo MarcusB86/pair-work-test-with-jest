@@ -1,4 +1,4 @@
-# Test-driven Development with Jest Lab
+# Test-driven Development with Jest Pair Work
 
 ## Getting started
 
